@@ -1,3 +1,5 @@
+cargo-features = ["edition"]
+
 [package]
 name = "bitflags-smoke-test"
 version = "0.0.0"
